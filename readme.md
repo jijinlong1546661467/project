@@ -47,7 +47,7 @@ git config --list --show-origin
 
 
 U(untracked)  未跟踪(新增)
-A(added)
+A(added)   将单个文件添加到暂存区
 M(modified)  跟踪后被修改
 
 
